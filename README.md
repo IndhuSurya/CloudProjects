@@ -1,5 +1,4 @@
-# CloudProjects
-Cloud Computing Projects <br>
+# Cloud Computing Projects
 <b>BenchmarkIAASProviders</b><br>
 Analysis of required number of nodes, performance measure and cost to support a business decision and benchmarking IAAS providers with Cassandra cluster using YCSB.<br>
 <b>Cloud_Openstack</b><br>
